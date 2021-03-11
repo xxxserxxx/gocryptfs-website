@@ -107,7 +107,7 @@ which is why I converted it to html.
   </tr>
   <tr>
     <td>User interface</td>
-<!-- gocryptfs --><td>CLI, 3rd-party GUI (<a href="https://mhogomchungu.github.io/sirikali/">SiriKali</a>)</td>
+<!-- gocryptfs --><td>CLI, 3rd-party GUIs (<a href="https://mhogomchungu.github.io/sirikali/">SiriKali</a>, <a href="https://hg.sr.ht/~ser/gocryptkeeper">gocryptkeeper</a>)</td>
 <!-- encfs     --><td>CLI, 3rd-party GUI</td>
 <!-- ecryptfs  --><td>Integrated in login process</td>
 <!-- cryptomtr --><td>GUI, 3rd-party CLI (<a href="https://github.com/cryptomator/cli">ref</a>) </td>
